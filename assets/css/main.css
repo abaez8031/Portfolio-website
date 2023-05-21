@@ -1659,3 +1659,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.project-img {
+			height: 300px;
+			width: 500px;
+		}
