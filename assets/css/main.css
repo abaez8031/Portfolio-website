@@ -1664,3 +1664,9 @@ input, select, textarea {
 			height: 300px;
 			width: 500px;
 		}
+
+		.profile-pic {
+			height: 600px;
+			width: 500px;
+			margin-top: 50px;
+		}
